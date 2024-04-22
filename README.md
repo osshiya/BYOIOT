@@ -6,7 +6,7 @@
 
 ### Swift Student Challenge 2024 **(Accepted)**
 
-BYOIOT stands for Build Your Own IoT. In this playground, you can learn how different components comes together in building an Internet of Things.
+BYOIOT stands for Build Your Own Internet of Things. In this playground, you can learn how different components come together to build an Internet of Things (IoT) system.
 
 **Used Technologies**: SwiftUI
 
